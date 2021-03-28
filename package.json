@@ -1,0 +1,27 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Design patterns in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolaSmrcek/Design-Patterns.git"
+  },
+  "keywords": [
+    "design-patterns",
+    "typescript"
+  ],
+  "author": "Nikola Smrcek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikolaSmrcek/Design-Patterns/issues"
+  },
+  "homepage": "https://github.com/NikolaSmrcek/Design-Patterns#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3",
+    "typescript-eslint": "0.0.1-alpha.0"
+  }
+}
